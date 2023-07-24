@@ -35,3 +35,4 @@ function blurHeader(){
     // When the scroll is greater than 80 viewport height, add the scroll-header class to the header tag
     if(this.scrollY >= 50) header.classList.add('blur-header'); else header.classList.remove('blur-header')
 }
+window.addEventListener('scroll', blurHeader)
