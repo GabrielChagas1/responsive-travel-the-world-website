@@ -32,3 +32,6 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 /*=============== ADD BLUR TO HEADER ===============*/
 function blurHeader(){
     const header = document.getElementById('header')
+    // When the scroll is greater than 80 viewport height, add the scroll-header class to the header tag
+    if(this.scrollY >= 50) header.classList.add('blur-header'); else header.classList.remove('blur-header')
+}
