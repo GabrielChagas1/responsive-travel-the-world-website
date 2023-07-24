@@ -31,3 +31,4 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 /*=============== ADD BLUR TO HEADER ===============*/
 function blurHeader(){
+    const header = document.getElementById('header')
