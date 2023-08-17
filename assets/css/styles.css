@@ -60,3 +60,21 @@ html {
   scroll-behavior: smooth;
 }
 
+body,
+button,
+input {
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  color: var(--text-color);
+}
+
+body {
+  background-color: var(--body-color);
+}
+
+button,
+input {
+  outline: none;
+  border: none;
+}
+
