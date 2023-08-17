@@ -87,3 +87,7 @@ h4 {
   font-weight: var(--font-semi-bold);
 }
 
+ul {
+  list-style: none;
+}
+
