@@ -112,3 +112,7 @@ img {
   gap: 1.5rem;
 }
 
+.section {
+  padding-block: 5rem 1rem;
+}
+
