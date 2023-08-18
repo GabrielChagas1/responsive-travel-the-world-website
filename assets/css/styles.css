@@ -116,3 +116,9 @@ img {
   padding-block: 5rem 1rem;
 }
 
+.section__title {
+  text-align: center;
+  font-size: var(--h1-font-size);
+  margin-bottom: 1.5rem;
+}
+
