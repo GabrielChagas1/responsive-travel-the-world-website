@@ -107,3 +107,8 @@ img {
   margin-inline: 1.5rem;
 }
 
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
