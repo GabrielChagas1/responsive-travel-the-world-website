@@ -127,3 +127,13 @@ img {
   /* For animation ScrollReveal */
 }
 
+/*=============== HEADER & NAV ===============*/
+.header {
+  position: fixed;
+  width: 100%;
+  background-color: transparent;
+  top: 0;
+  left: 0;
+  z-index: var(--z-fixed);
+}
+
