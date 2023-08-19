@@ -198,3 +198,7 @@ img {
   transition: width .3s;
 }
 
+.nav__link:hover::after{
+  width: 70%;
+}
+
