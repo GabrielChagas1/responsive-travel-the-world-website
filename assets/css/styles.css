@@ -202,3 +202,9 @@ img {
   width: 70%;
 }
 
+.nav__close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+}
+
