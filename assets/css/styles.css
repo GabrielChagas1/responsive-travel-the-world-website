@@ -180,3 +180,10 @@ img {
   row-gap: 2.5rem;
 }
 
+.nav__link {
+  position: relative;
+  color: var(--title-color);
+  font-family: var(--second-font);
+  font-weight: var(--font-medium);
+}
+
