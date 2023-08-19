@@ -227,3 +227,8 @@ img {
   z-index: -1;
 }
 
+/* Active link */
+.active-link::after{
+  width: 70%;
+}
+
