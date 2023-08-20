@@ -278,3 +278,8 @@ img {
   margin-bottom: 1rem;
 }
 
+.home__description {
+  margin-bottom: 2rem;
+  color: var(--title-color);
+}
+
