@@ -258,3 +258,9 @@ img {
       hsl(0, 0%, 0%) 78%);
 }
 
+.home__container {
+  position: relative;
+  padding-top: 3rem;
+  row-gap: 3rem;
+}
+
