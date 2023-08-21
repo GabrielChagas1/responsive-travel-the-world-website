@@ -308,3 +308,11 @@ img {
       hsl(0, 0%, 0%) 125%);
 }
 
+.home__card-title {
+  position: absolute;
+  left: 1rem;
+  bottom: 1rem;
+  font-size: var(--h3-font-size);
+  z-index: 1;
+}
+
