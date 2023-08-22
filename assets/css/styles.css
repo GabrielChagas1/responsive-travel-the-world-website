@@ -344,3 +344,8 @@ img {
   transform: translateX(.25rem );
 }
 
+/*=============== ABOUT ===============*/
+.about__container{
+  row-gap: 3rem;
+}
+
