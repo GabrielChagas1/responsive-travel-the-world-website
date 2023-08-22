@@ -333,3 +333,10 @@ img {
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
 }
+
+.button i{
+  font-size: 1.25rem;
+  transition: transform .4s;
+  font-weight: initial;
+}
+
