@@ -340,3 +340,7 @@ img {
   font-weight: initial;
 }
 
+.button:hover i{
+  transform: translateX(.25rem );
+}
+
