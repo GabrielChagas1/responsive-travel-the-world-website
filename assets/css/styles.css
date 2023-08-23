@@ -363,3 +363,8 @@ img {
   overflow: hidden;
 }
 
+.about__img{
+  width: 300px;
+  transition: transform .4s;
+}
+
