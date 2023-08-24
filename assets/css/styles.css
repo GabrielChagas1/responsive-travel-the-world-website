@@ -412,3 +412,8 @@ img {
               hsl(0, 0%, 0%) 125%);
 }
 
+.popular__title{
+  font-size: var(--h3-font-size);
+  margin-bottom: .5rem;
+}
+
