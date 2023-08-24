@@ -397,3 +397,7 @@ img {
   margin-bottom: 1rem;
 }
 
+.popular__img{
+  transition: transform .4s;
+}
+
