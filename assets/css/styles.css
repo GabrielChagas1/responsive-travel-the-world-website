@@ -464,3 +464,10 @@ img {
                hsl(0, 0%, 0%) 92%);
 }
 
+.explore__content{
+  position: relative;
+  padding-top: 16rem;
+  text-align: center;
+  row-gap: 2.5rem;
+}
+
