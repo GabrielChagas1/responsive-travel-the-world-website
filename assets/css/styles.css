@@ -471,3 +471,10 @@ img {
   row-gap: 2.5rem;
 }
 
+.explore__user{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: .5rem;
+}
+
