@@ -417,3 +417,12 @@ img {
   margin-bottom: .5rem;
 }
 
+.popular__location{
+  display: inline-flex;
+  align-items: center;
+  column-gap: .25rem;
+  font-size: var(--small-font-size);
+  font-family: var(--second-font);
+  font-weight: 500;
+}
+
