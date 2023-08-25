@@ -438,3 +438,9 @@ img {
 .explore{
   position: relative;
 }
+
+.explore__image{
+  position: absolute;
+  overflow: hidden;
+}
+
