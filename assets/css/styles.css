@@ -488,8 +488,12 @@ img {
   color: var(--title-color);
 }
 
+/*=============== JOIN ===============*/
 .join__container{
   row-gap: 3rem;
   padding-bottom: 2.5rem;
 }
 
+.join__data{
+  text-align: center;
+}
