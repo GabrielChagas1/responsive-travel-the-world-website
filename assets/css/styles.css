@@ -502,3 +502,8 @@ img {
   margin-bottom: 2rem;
 }
 
+.join__form{
+  display: grid;
+  row-gap: 1rem;
+}
+
