@@ -507,3 +507,8 @@ img {
   row-gap: 1rem;
 }
 
+.join__input{
+  padding: 1.25rem 1rem;
+  background-color: var(--container-color);
+}
+
