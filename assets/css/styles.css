@@ -483,3 +483,8 @@ img {
   border-radius: 50%;
 }
 
+.explore__name{
+  font-size: var(--small-font-size);
+  color: var(--title-color);
+}
+
