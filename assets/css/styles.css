@@ -542,3 +542,9 @@ img {
    transform: scale(1.2);
 }
 
+/*=============== FOOTER ===============*/
+.footer{
+  padding-block: 2.5rem;
+  background-color: var(--container-color);
+}
+
