@@ -548,3 +548,7 @@ img {
   background-color: var(--container-color);
 }
 
+.footer__content{
+  row-gap: 3.5rem;
+}
+
