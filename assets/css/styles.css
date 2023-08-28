@@ -581,3 +581,7 @@ img {
   transition: color .4s;
 }
 
+.footer__link:hover{
+  color: var(--title-color);
+}
+
