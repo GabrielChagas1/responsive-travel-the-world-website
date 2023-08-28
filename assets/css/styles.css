@@ -561,3 +561,8 @@ img {
   margin-bottom: 1rem;
 }
 
+.footer__data{
+  grid-template-columns: repeat(2, max-content);
+  gap: 2.5rem 3.5rem;
+}
+
