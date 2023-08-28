@@ -585,3 +585,8 @@ img {
   color: var(--title-color);
 }
 
+.footer__group,
+.footer__social{
+  display: flex;
+}
+
