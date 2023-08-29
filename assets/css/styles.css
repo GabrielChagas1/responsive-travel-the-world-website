@@ -618,3 +618,10 @@ img {
   text-align: center;
 }
 
+/*=============== SCROLL BAR ===============*/
+::-webkit-scrollbar{
+  width: .6rem;
+  border-radius: .5rem;
+  background-color: hsl(0, 0%, 10%);
+}
+
