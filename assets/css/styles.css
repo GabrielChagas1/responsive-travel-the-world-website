@@ -607,3 +607,8 @@ img {
   transition: color .4s, transform .4s;
 }
 
+.footer__social-link:hover{
+  color: var(--title-color);
+  transform: translateY(-.25rem);
+}
+
