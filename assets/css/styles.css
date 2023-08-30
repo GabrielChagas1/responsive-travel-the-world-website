@@ -710,3 +710,6 @@ img {
     width: 100vw;
   }
 
+  .join__image{
+    order: -1;
+  }
