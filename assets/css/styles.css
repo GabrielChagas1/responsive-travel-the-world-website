@@ -722,3 +722,7 @@ img {
     flex-direction: row;
     justify-content: space-between;
   }
+  .footer__copy{
+    order: -1;
+  }
+}
