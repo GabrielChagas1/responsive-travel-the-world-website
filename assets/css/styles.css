@@ -754,3 +754,6 @@ img {
     margin-inline: auto;
   }
 
+  .section{
+    padding-block: 7rem 2rem;
+  }
