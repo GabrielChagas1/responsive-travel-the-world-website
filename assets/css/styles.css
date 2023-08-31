@@ -757,3 +757,7 @@ img {
   .section{
     padding-block: 7rem 2rem;
   }
+
+  .nav{
+    height: calc(var(--header-height) + 1.5rem);
+  }
