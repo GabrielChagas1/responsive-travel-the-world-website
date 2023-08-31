@@ -739,3 +739,6 @@ img {
     column-gap: 4rem;
   }
 
+  .popular__container{
+    grid-template-columns: repeat(3, 240px);
+  }
