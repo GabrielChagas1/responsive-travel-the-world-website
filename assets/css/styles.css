@@ -779,3 +779,6 @@ img {
     text-align: initial;
     width: 480px;
   }
+  .home__subtitle{
+    font-size: var(--h2-font-size);
+  }
