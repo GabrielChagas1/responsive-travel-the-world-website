@@ -825,3 +825,7 @@ img {
   .explore__img{
     height: 600px;
   }
+  .explore__content{
+    padding-top: 28rem;
+    grid-template-columns: 670px 1fr;
+  }
