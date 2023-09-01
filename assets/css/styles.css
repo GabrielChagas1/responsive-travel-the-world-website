@@ -865,3 +865,9 @@ img {
   }
   .footer__social-link{
     font-size: 1.5rem;
+  }
+
+  .scrollup{
+    right: 3rem;
+  }
+}
