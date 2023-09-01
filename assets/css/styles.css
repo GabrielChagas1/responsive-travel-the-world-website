@@ -833,3 +833,8 @@ img {
   .explore__data .section__title{
     text-align: initial;
   }
+  .explore__user{
+    justify-content: flex-end;
+    align-self: flex-end;
+    margin-bottom: 1.25rem;
+  }
