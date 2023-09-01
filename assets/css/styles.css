@@ -853,3 +853,7 @@ img {
 
   .footer{
     padding-block: 5rem 3rem;
+  }
+  .footer__title{
+    margin-bottom: 1.5rem;
+  }
